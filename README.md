@@ -12,6 +12,6 @@ HTML/CSS
 ## Current Projects
 - [Personal Learning Portfolio](link) — A collection of my programming and cybersecurity practice projects.
 
-## How to Reach Me
+## How to Reach Me 
 - Email: mkmoise920@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/moise-nyarugabo-8b2411260
