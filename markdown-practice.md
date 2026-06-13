@@ -6,7 +6,7 @@ I want to become a **skilled** programmer, improve my *problem-solving* skills, 
 
 ## Exercise 3 — Links
 
-- [My GitHub Profile](https://github.com/YOUR_USERNAME)
+- [My GitHub Profile](https://github.com/Mkmoise)
 - [W3Schools](https://www.w3schools.com)
 
 ## Exercise 4 — Lists
