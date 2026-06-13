@@ -5,7 +5,7 @@
 - I'm interested in web development, cybersecurity, and technology..
 - I'm looking to collaborate on  beginner-friendly open-source projects
 
-## Skills I'm Building
+## Skills I'm Building 
 - Git and GitHub
 HTML/CSS
 
