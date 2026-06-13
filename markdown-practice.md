@@ -2,102 +2,90 @@
 
 ### This Semester
 
-## Exercise 1 — Headings
-
-## My Learning Goals
-
-### This Semester
-
----
-
-## Exercise 2 — Text Formatting
-
-I am **committed** to learning new programming languages, and I find *consistency* important when practicing code with `git commit` regularly.
-
----
+I want to become a **skilled** programmer, improve my *problem-solving* skills, and learn how to use `Git` effectively.
 
 ## Exercise 3 — Links
 
-- [My GitHub Profile](https://github.com/Mkmoise)
-- [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
-
----
+- [My GitHub Profile](https://github.com/YOUR_USERNAME)
+- [W3Schools](https://www.w3schools.com)
 
 ## Exercise 4 — Lists
 
 ### Things I Want to Learn
-- Advanced Python concepts and data structures
-- Full-stack web development with React and Node.js
-- Machine learning and data science fundamentals
 
-### Steps to Make a Commit in Git
-1. Stage your changes using `git add <filename>` or `git add .`
-2. Create a commit with a descriptive message using `git commit -m "Your message here"`
-3. Push your changes to the remote repository using `git push`
-4. Verify your commit appears on GitHub
+- Web Development
+- Cyber Security
+- Python Programming
 
----
+### Steps to Make a Git Commit
+
+1. Make changes to your files.
+2. Stage the changes using Git.
+3. Commit the changes with a message.
+4. Push the changes to GitHub.
 
 ## Exercise 5 — Table
 
 | Tool | Purpose | Link |
 |------|---------|------|
-| Git | Version control and collaboration | https://git-scm.com |
-| GitHub | Repository hosting and project management | https://github.com |
-| Visual Studio Code | Code editor and development environment | https://code.visualstudio.com |
-
----
+| GitHub | Store and share code | https://github.com |
+| VS Code | Write and edit code | https://code.visualstudio.com |
 
 ## Exercise 6 — Task List
 
-- [x] Set up GitHub account and create profile README
-- [x] Learn basic Markdown syntax
-- [ ] Master Git workflow and branching strategies
-- [ ] Complete a collaborative open-source project
-- [ ] Build and deploy a full-stack application
-
----
+- [x] Create a GitHub account
+- [x] Create my profile README
+- [ ] Learn Markdown
+- [ ] Build a personal website
 
 ## Exercise 7 — Code Block
 
-```python
-def greet_user(name):
-    """A simple function to greet a user."""
-    message = f"Hello, {name}! Welcome to GitHub."
-    return message
-
-result = greet_user("Mkmoise")
-print(result)
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Page</title>
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <p>Welcome to my website.</p>
+</body>
+</html>
 ```
-
----
 
 ## Exercise 8 — Blockquote
 
-> "The best time to plant a tree was 20 years ago. The second best time is now." — Chinese Proverb
->
-> This reminds me that it's never too late to start learning and improving my skills in programming and development.
+> "Success is the sum of small efforts repeated day in and day out."
 
----
+## About Me
 
-## Bonus — About Me
+Hello! My name is **Moise Nyarugabo**.
 
-I'm **Mkmoise**, a passionate learner exploring the world of software development on GitHub. My primary focus this semester is mastering *full-stack development* and building real-world projects.
+I am interested in *web development*, cyber security, and programming.
 
-I use several tools to support my learning journey:
+### My Skills
 
-| Tool | Purpose |
-|------|---------|
-| GitHub | Hosting and showcasing my projects |
-| VS Code | Writing clean, efficient code |
+- HTML
+- CSS
+- GitHub
 
-Some of my current learning goals include:
-1. Building responsive web applications
-2. Understanding databases and backend architecture
-3. Contributing to open-source projects
+Visit my GitHub profile:
+[GitHub Profile](https://github.com/Mkmoise)
 
-As I always say: `consistency beats intensity` in programming. I'm committed to pushing code regularly and documenting my learning journey through commits and READMEs.
+> I believe that learning never stops.
 
-> "Code is poetry written in a language machines understand." — Anonymous
+My current goal is to master `HTML`, `CSS`, and `JavaScript`.
 
-This philosophy drives my approach to writing meaningful, well-structured code every single day.
+### Tools I Use
+
+| Tool | Purpose | Link |
+|------|---------|------|
+| GitHub | Version Control | https://github.com |
+| VS Code | Code Editor | https://code.visualstudio.com |
+
+### My Learning Checklist
+
+- [x] Learned basic HTML
+- [x] Created a GitHub account
+- [ ] Learn JavaScript
+- [ ] Build a portfolio website
