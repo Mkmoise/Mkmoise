@@ -1,40 +1,23 @@
-# Week 1: My First Project
+<h1 align="center">Hi 👋, I'm MOISE NYARUGABO</h1>
+<h3 align="center">An aspiring software developer and cybersecurity enthusiast from Kenya</h3>
 
-## Author
-- **Name:** Moise Nyarugabo
-- **GitHub:** [@Mkmoise](https://github.com/Mkmoise)
-- **Date:** June 14, 2026
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, Git, and Cybersecurity**
 
-## Project Description
-This is my first week project at IYF Mahanaim. I'm building my foundation in web development by learning HTML, CSS, and Git/GitHub basics. This project demonstrates my initial understanding of web technologies and version control.
+- 👯 I’m looking to collaborate on **Beginner-friendly web development projects**
 
-## Technologies Used
-- HTML5
-- CSS3
-- Git
-- GitHub
+- 🤝 I’m looking for help with **Open-source projects and software development**
 
-## Features
-- Clean and organized code structure
-- Responsive design basics
-- Proper use of semantic HTML
-- Git version control implementation
+- 💬 Ask me about **HTML/CSS**
 
-## How to Run
-1. Clone this repository: `git clone https://github.com/Mkmoise/iyf-s11-week-1-Mkmoise.git`
-2. Navigate to the project folder: `cd iyf-s11-week-1-Mkmoise`
-3. Open `index.html` in your browser
+- 📫 How to reach me **mkmoise920@gmail.com**
 
-## Lessons Learned
-- Understanding Git and GitHub workflow
-- HTML structure and semantics
-- CSS styling fundamentals
-- Basic web development practices
+- ⚡ Fun fact **I enjoy learning new technologies and teaching others.**
 
-## Challenges Faced
-- Setting up Git for the first time
-- Understanding proper folder structure
-- Debugging CSS issues
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.topcoder.com/members/00618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="00618" height="30" width="40" /></a>
+</p>
 
-## Live Demo (if deployed)
-[View Live Demo](https://mkmoise.github.io/iyf-s11-week-1-Mkmoise/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+# Mkmoise.github.io
